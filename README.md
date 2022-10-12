@@ -1,9 +1,13 @@
 - Hi, I’m Tomas Kindahl
-- I use this github account mostly for teaching, otherwise for some C/C++ OpenGL experimentation
+- I'm a teacher in embedded systems, computing and networking at [Mölk Education](https://www.molk.se/).
+- I use this github account mostly for teaching, otherwise for some C/C++ OpenGL experimentation.
 - Currently I'm not learning, just teaching. This year I learnt (and tought) docker, flask,
   azure virtual machine teaching, data warehouses, some machine learning, etc..
-- I’m not looking for any collaboration, I have my hands full with my teaching profession
-- How to reach me ... my pupils know
+- I’m not looking for any collaboration, I have my hands full with my teaching profession.
+  Later on I might want to develop a desktop application for learning, teaching and course development,
+  but I'm not there yet. The application will then be a portable one that works on multiple operating
+  systems, and is easily usable also on mobile phones.
+- [Tomas Kindahl @ LinkedIn](https://www.linkedin.com/in/tomas-kindahl-8a2755b0/)
 
 <!---
 TomasKindahl/TomasKindahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
