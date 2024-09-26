@@ -1,5 +1,5 @@
 - Hi, I’m Tomas Kindahl
-- I'm a teacher in embedded systems, computing and networking at [Mölk Education](https://www.molk.se/).
+- I'm a teacher in embedded systems, computing and networking at [Skill Scandinavia](https://skill.se/).
 - I use this github account mostly for teaching, otherwise for some C/C++ OpenGL experimentation.
 - Currently I'm not learning, just teaching. This year I learnt more about (and taught) docker, flask,
   azure virtual machines, data warehouses, some machine learning, etc.. The teaching role requires (sometimes intense) 
