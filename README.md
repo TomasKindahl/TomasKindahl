@@ -1,9 +1,9 @@
 - Hi, I’m Tomas Kindahl
 - I'm a teacher in embedded systems, computing and networking at [Skill Scandinavia](https://skill.se/).
 - I use this github account mostly for teaching, otherwise for some C/C++ OpenGL experimentation.
-- Currently I'm not learning, just teaching. This year I learnt more about (and taught) docker, flask,
-  azure virtual machines, data warehouses, some machine learning, etc.. The teaching role requires (sometimes intense) 
-  learning of certain topics: what you don't already know, you have to learn yourself.
+- Currently I'm not learning, just teaching. A couple of years ago I learnt more about (and taught) docker,
+  flask, azure virtual machines, data warehouses, some machine learning, etc.. The teaching role requires
+  (sometimes intense) learning of certain topics: what you don't already know, you have to learn by yourself.
 - I’m not looking for any collaboration, I have my hands full with my teaching profession.
   Later on I might want to develop a desktop application for learning, teaching and course development,
   but I'm not there yet. The application will then be a portable one that works on multiple operating
