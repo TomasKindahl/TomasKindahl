@@ -15,16 +15,11 @@
      - Java, C#, MySQL, Postgres, Scala,
      - embedded systems and IoT,
      - docker, flask, azure virtual machines, data warehouses, some machine learning,
-- at my retirement (2028) I'm going to learn modern <s>GLFW, OpenGL</s> SDL3 and the D programming language,
-  and also some Rust (only for computer science reasons, it breaks three programming paradigms violently
-  which in my estimation will punish the companies that use it severely in the long run),
+- at my retirement (2028) I'm going to learn modern <s>GLFW, OpenGL</s> SDL3, cairo graphics, and the D
+  programming language, and also some Rust (only for computer science reasons, it breaks three programming
+  paradigms violently which in my estimation will punish the companies that use it severely in the long run),
 - I’m not looking for any collaboration, I have my hands full with my teaching profession,
   Later on I might want to develop a desktop application for learning, teaching and course development,
   but I'm not there yet. The application will then be a portable one that works on multiple operating
   systems, and is easily usable also on mobile phones.
 - [Tomas Kindahl @ LinkedIn](https://www.linkedin.com/in/tomas-kindahl-8a2755b0/)
-
-<!---
-TomasKindahl/TomasKindahl is a special repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
