@@ -15,9 +15,9 @@
      - Java, C#, MySQL, Postgres, Scala,
      - embedded systems and IoT,
      - docker, flask, azure virtual machines, data warehouses, some machine learning,
-- at my retirement (2028) I'm going to learn modern GLFW, OpenGL, the D programming language, and also
-  some Rust (only for computer science reasons, it breaks three programming paradigms violently which in
-  my estimation will punish the companies that use it severely in the long run),
+- at my retirement (2028) I'm going to learn modern <s>GLFW, OpenGL</s> SDL3 and the D programming language,
+  and also some Rust (only for computer science reasons, it breaks three programming paradigms violently
+  which in my estimation will punish the companies that use it severely in the long run),
 - I’m not looking for any collaboration, I have my hands full with my teaching profession,
   Later on I might want to develop a desktop application for learning, teaching and course development,
   but I'm not there yet. The application will then be a portable one that works on multiple operating
