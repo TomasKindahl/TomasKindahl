@@ -16,6 +16,7 @@
      - Java, C#, MySQL, Postgres, Scala,
      - embedded systems and IoT,
      - docker, flask, azure virtual machines, data warehouses, some machine learning,
-- I'll vaguely interested in collaboration, but my main project (currently iced down) is here:
-  [TomasKindahl/NavD](https://codeberg.org/TomasKindahl/NavD)
+- I'll vaguely interested in collaboration, but my main project (currently iced down) which is here:
+  [TomasKindahl/NavD](https://codeberg.org/TomasKindahl/NavD), is not clearly formulated yet – just something
+  about a fast prototyping GUI
 - [Tomas Kindahl @ LinkedIn](https://www.linkedin.com/in/tomas-kindahl-8a2755b0/)
